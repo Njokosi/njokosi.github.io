@@ -2774,7 +2774,7 @@ a {
   background: #ffffff;
 }
 .bg--secondary {
-  background: #fafafa;
+  background: radial-gradient(circle at 1% 1%,#328bf2,#1644ad);
 }
 .bg--primary {
   background: #4a90e2;
